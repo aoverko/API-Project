@@ -1,4 +1,3 @@
-# API-Project
 
 # About the Project
 
