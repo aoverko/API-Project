@@ -1,3 +1,4 @@
+![image](<api_screenshot_landing.png>) 
 
 ## About the Project
 
